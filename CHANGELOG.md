@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.1] - 04-11-2019
 ### Added
 - Added the second home exercise, which includes a script file created in linux
-
+- Added the first extra challenge, which includes two files which were created in linux
 
 ## [1.0.0] - 29-10-2019
 ### Added
