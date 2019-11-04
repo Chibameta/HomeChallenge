@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 04-11-2019
+### Added
+- Added the second home exercise, which includes a script file created in linux
+
+
 ## [1.0.0] - 29-10-2019
 ### Added
 - Added some lines on the README file
